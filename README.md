@@ -7,7 +7,7 @@ This Python script utilizes the `linkedin_api` library to scrape LinkedIn profil
 ## Dependencies
 Before running the script, ensure that you have the required library installed:
 
-'!pip install linkedin_api'
+`!pip install linkedin_api`
 
 ## How to Use
 ## 1. Login Functionality
